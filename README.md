@@ -7,7 +7,7 @@ It showcases fundamental SQL techniques including data cleaning, exploration, an
 
 - Clean and explore retail sales data.
 - Answer key business questions using SQL queries.
-- Identify trends based on sales date, category, customer demographics, and more.
+- Identify trends based on sales date, category, customer demographics, and more..
 
 ## 🗂️ Dataset Schema
 
